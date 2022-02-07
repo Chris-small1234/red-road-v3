@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "48536682156",
+    "project_id": "red-road-wellness",
+    "storage_bucket": "red-road-wellness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48536682156:android:728ed55e0525dd41e66909",
+        "android_client_info": {
+          "package_name": "com.westiedesign.red_road_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48536682156-5hq2geiml3lq6oeeloolfdi25g3lvuv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUcsnhMhL2DKBvRyuI7q5enBBM_2ry6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48536682156-5hq2geiml3lq6oeeloolfdi25g3lvuv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48536682156-lkl43l2sd49v22hgc8p4oqcrsba1uipp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.westiedesign.redRoadV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
